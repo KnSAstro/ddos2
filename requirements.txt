@@ -1,0 +1,10 @@
+requests
+colorama
+PyQt5
+cloudscraper
+requests
+aiohttp
+httpx
+asyncio
+pyfiglet
+websocket
